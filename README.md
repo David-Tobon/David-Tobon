@@ -1,37 +1,51 @@
 ## About Me
 
-![Banner Github Recortado](https://user-images.githubusercontent.com/119984382/209892137-e987e3a6-8b38-43e5-918d-05581bc0fc03.png)
+<img width="1536" height="539" alt="Banner Juan Tobon" src="https://github.com/user-attachments/assets/ec677247-5d92-4a2a-963a-ea1dfc24f2d4" />
 
-<h2 align="center"> ✨ Hi ! I'm @David-Tobon ✨ </h2>
-<p align="center">
+
+<h2 align="center">Hi, I'm David Tobon </h2>
+
+I'm a Unity / C# Junior developer focused on gameplay systems, AI and tooling.
+I enjoy building systems-heavy projects and learning by creating real, functional software.
+
+
+
+##  Technical Focus
+
+- **Languages:** C#, C, C++
+- **Game Engine:** Unity
+- **Areas:** Gameplay Systems, AI (GOAP), Simulation / Colony-style mechanics
+- **Tools:** Visual Studio | Code, Git, GitHub
+- **Databases:** MySQL
+- **Other:** .NET fundamentals, tooling for real-world workflows
+
+---
+
+##  Featured Work
+
+- **Emil-IA |In Progress|**  
+  Colony / simulation-style game prototype focused on AI-driven NPC behavior.  
+  Built with a GOAP-based architecture, very modular systems, versioned development and detailed documentation.
+
+- **Espacio VIP – Accounting Tool |In Progress|**  
+  Desktop application created to manage invoices, payments and basic accounting workflows for a small business.  
+  Built to solve a real operational need, focused in the usability.
+
+- **Game Server Voltion (Dofus 2.51)**  
+  Custom server modifications and a fully custom launcher handling updates, authentication, user management and MySQL database integration.  
+  Used in a live environment with hundreds of active users.
+
+- **Uplauncher Voltion (Dofus 2.51)**
+  Although it was my first project in this field, the system runs smoothly and reliably. It provides features such as game updates, news retrieval, account creation and management, and several other tools, all tightly integrated with the emulator.
 
   
-- 📓 I’m a systems engineering student with a special focus on the C programming language.
-- 🌱 I’m currently learning "C#" and  English in order to better communicate with the developer community and expand my career opportunities.
+  
 
-
-## Skills - Learning
-
-![C Learning](https://img.shields.io/badge/C-Learning-green) 
-![C++ Learning](https://img.shields.io/badge/C%2B%2B-Learning-green)
-![C# Learning](https://img.shields.io/badge/C%23-Learning-green)
-![VS Learning](https://img.shields.io/badge/Visual%20Studio-Learning-green)
-![MySQL Learning](https://img.shields.io/badge/MySQL-Learning-green)
-![NET Learning](https://img.shields.io/badge/NET-Learning-green)
-
-
-
-
-## About Work
-- 💞️ I’m interested in collaborating on software projects and learning from other experienced programmers.
-- ✨ I look forward to contributing to interesting projects and learning from the community on GitHub!
-
-## Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-tobon&show_icons=true&theme=tokyonight)
+---
 
 ## Contact Me
-- 📫  [Email](david.tobon1@utp.edu.co)
+-  Email: david.tobon1@utp.edu.co
+-  Likedin:  https://www.linkedin.com/in/david-tobon/
 
 
 
